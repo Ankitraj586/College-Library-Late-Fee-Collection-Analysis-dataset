@@ -17,6 +17,9 @@ The project uses **data analysis and visualization** to find useful insights.
 ## Dataset Information
 The dataset is a CSV file with **1000 records**.
 
+## gradio interface
+- [click here for the interface](https://huggingface.co/spaces/ankit421/College-Library-Late-Fee-Collection-Analysis?logs=build)
+
 ### Columns in the dataset:
 - Student_ID – Unique ID of student
 - Book_ID – Book identification number
